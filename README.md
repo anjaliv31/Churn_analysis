@@ -50,7 +50,8 @@ The goal is to identify customers who stop engaging within the first 30 days and
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
+```
 Churn-analysis/
 │
 ├── SQL/
@@ -68,11 +69,11 @@ Churn-analysis/
 │ └── dashboard.png
 │
 └── README.md
-
+```
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Screenshot/dashboard.png)
+![Dashboard](Screenshot/Dashboard.png)
 ---
 
 ## ✅ Conclusion
